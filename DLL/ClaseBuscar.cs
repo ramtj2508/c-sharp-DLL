@@ -9,7 +9,7 @@ namespace DLL
         public DataSet Buscar(string nombre)
         {
             
-            var Conexion = new SqlConnection("Data Source= LAPTOP-MAT34GR8;" + "Initial Catalog = BDExamen;" + "User=sa; Password= 2508Tony!!");
+            var Conexion = new SqlConnection("Data Source= LAPTOP-*****;" + "Initial Catalog = *****;" + "User=sa; Password= *******");
             var Conjunto = new DataSet();
             try
             {
