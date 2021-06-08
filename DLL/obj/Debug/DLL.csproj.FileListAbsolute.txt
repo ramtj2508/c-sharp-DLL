@@ -1,0 +1,6 @@
+C:\Users\ramtj\OneDrive\Respaldo 16-02-2021\Universidad, Estudios, Cursos\Apuntes LaSalle\3er sem\Programación Orientada a objetos\P3\PFProgra\DLL\bin\Debug\DLL.dll
+C:\Users\ramtj\OneDrive\Respaldo 16-02-2021\Universidad, Estudios, Cursos\Apuntes LaSalle\3er sem\Programación Orientada a objetos\P3\PFProgra\DLL\bin\Debug\DLL.pdb
+C:\Users\ramtj\OneDrive\Respaldo 16-02-2021\Universidad, Estudios, Cursos\Apuntes LaSalle\3er sem\Programación Orientada a objetos\P3\PFProgra\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+C:\Users\ramtj\OneDrive\Respaldo 16-02-2021\Universidad, Estudios, Cursos\Apuntes LaSalle\3er sem\Programación Orientada a objetos\P3\PFProgra\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\ramtj\OneDrive\Respaldo 16-02-2021\Universidad, Estudios, Cursos\Apuntes LaSalle\3er sem\Programación Orientada a objetos\P3\PFProgra\DLL\obj\Debug\DLL.dll
+C:\Users\ramtj\OneDrive\Respaldo 16-02-2021\Universidad, Estudios, Cursos\Apuntes LaSalle\3er sem\Programación Orientada a objetos\P3\PFProgra\DLL\obj\Debug\DLL.pdb
